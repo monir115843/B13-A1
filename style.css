@@ -30,7 +30,7 @@
     list-style: none;
     gap: 32px;
 }
-.button{
+.button-1{
     margin-right: 120px;
     color: white;
    background-color: #30B868;
@@ -41,6 +41,79 @@ border-radius: 8px;
   text-align: center;
   cursor: pointer;
 }
-  
+.button-1:hover{
+    background-color: #1E8C4A;}
+ #banner{
+    height: 674px;
     
+background-image: url(assets/hero-bg.png);
+  
+  background-position: center;
+  text-align: center;
+}
+.btn{color: #30B868;
+    margin-top: 155px;
+    margin-bottom: 16px;
+    font-size: 12px;
+    padding: 6px 10px 6px 30px;
+   border: none;
+    background-color:none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 500;
+}
+.btn:hover{
+    background-color: #E0F4EA;}
+
+.h1-header{
+    font-size: 60px;  
+    font-weight: 700;
+color:#FFFFFF;
+}
+ 
+.h1-head{
+    font-size: 60px;
+    font-weight: 700;
+    color: #30B868;
+}
+.banner-content p{
+    font-size: 18px;
+    color: #FFFFFF;
+    margin: 16px 295px 20px 295px;
    
+}
+.button-2{
+      margin-right: 16px;
+    color: white;
+   background-color: #30B868;
+    width: 180px;
+    height: 44px;
+border-radius: 8px;
+    border: none;
+
+  cursor: pointer;
+}
+.button-2:hover{
+    background-color: #1E8C4A;
+}
+
+.button-2 img{
+vertical-align: middle;}
+
+.button-3{margin-right: 16px;
+    color: white;
+   background-color: transparent;
+    width: 180px;
+    height: 44px;
+border-radius: 8px;
+    border: 1px solid white;
+cursor: pointer;
+}
+.button-3:hover{
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.button-3 img{
+
+
+    
+
