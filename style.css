@@ -169,6 +169,12 @@ cursor: pointer;
         margin-top: 0;
        
     }
+    .section-container .brain{
+    border-radius: 15px;
+    padding: 40px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.10);
+        
+    }
     .section-container .solution{
         color: #30B868;
         font-size: 15px;
@@ -196,6 +202,27 @@ cursor: pointer;
      .section-container p img{
     vertical-align: middle;
      }
+     footer{
+        width: 100%;
+        max-width: 1360px;
+        /* border: 1px solid black; */
+        text-align: center;
+       
+     }
+     footer h2{
+        font-size: 40px;
+        font-weight: bold;
+        margin-top:  80px;
+        margin-bottom: 16px;
+     }
+     footer p{
+        color: #627382;
+        margin-bottom: 24px;
+     }
+     footer button{
+        margin-bottom: 16px; ;
+     }
+
 
      
 
