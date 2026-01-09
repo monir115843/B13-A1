@@ -202,11 +202,14 @@ cursor: pointer;
      .section-container p img{
     vertical-align: middle;
      }
-     footer{
+     .footer-1{
+        background-color:#F7F6F2 ;
         width: 100%;
         max-width: 1360px;
         /* border: 1px solid black; */
         text-align: center;
+        margin-top: 150px;
+      
        
      }
      footer h2{
@@ -222,8 +225,27 @@ cursor: pointer;
      footer button{
         margin-bottom: 16px; ;
      }
-
-
+    
+.footer-2{
+    border: 1px solid black;
+  display: flex;
+    width:100%;
+    max-width: 1340px;
+    height: 250px;
+justify-content: space-between;
+background-color: #001931;
+}
+.footer-content{
+    margin: 120px;
+}
+.footer-container p{
+    text-align:left;
+    justify-content: space-between;
+   
+}
+.last{justify-content: center;align-items: center;
+    
+}
      
 
 
